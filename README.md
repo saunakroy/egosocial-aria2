@@ -1,1 +1,3 @@
-# egosocial-aria2
+# EgoSocial: Capturing Social Interaction via Multimodal Sensing
+
+Our primary goal with Project Aria is to understand and model human behaviors by creating EgoSocial, a large-scale egocentric social-emotional dataset that combines multimodal sensor data with validated psychological ground-truth labels. While many existing egocentric datasets capture motion, geometry, and activities, they do not capture the wearer’s internal emotional or social state. Our goal is to capture and correlate multimodal Aria signals with subjective psychological data across three interaction scenarios: human-human, human-AI, and human-group dynamics. We plan to use rigorous pre- and post-interaction surveys (capturing background, mood, interactions, context, etc.), along with raw sensory data from the glasses, to create a large-scale benchmark for training AI to detect and infer user intent, comfort, engagement, and social context.
